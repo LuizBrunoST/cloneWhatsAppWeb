@@ -1,0 +1,14 @@
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+body{
+    background-image: url("https://i.pinimg.com/736x/19/33/6f/19336f795b97a2904797aafcf6bf2c91.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.w3-input:focus{outline:none;}
+.w3-font-bold{font-weight:bold;}
+::-webkit-scrollbar{width:5px;}
+::-webkit-scrollbar-track{box-shadow: inset 0 0 5px #ccc;}
+::-webkit-scrollbar-thumb{background: #2196F3;}
+::-webkit-scrollbar-thumb:hover{background: #0372ca;}
